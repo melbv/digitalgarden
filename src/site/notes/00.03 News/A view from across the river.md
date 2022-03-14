@@ -127,4 +127,4 @@ Cover image: A view of the Yamuna from its eastern bank.
 &emsp;
 
 ---
-`$= dv.el('center', 'Source: ' + dv.current().Link)`
+`$= dv.el('center', 'Source: ' + dv.current().Link + ', ' + dv.current().Date.toLocaleString("fr-FR"))`
