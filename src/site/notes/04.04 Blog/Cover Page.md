@@ -6,13 +6,17 @@
 
 # Blog by mfxm.fr
 
+&emsp;
+
 Hi lone Internet dweller who will have landed on this page,
+
+&emsp;
 
 This is my attempt at publishing a simple blog, giving back to the Internet community some of my online perigrinations along three main areas:
 
 1. Selfhosting and the few notes that I wrote for beginners (mostly)
 
-2. Recipes that I have gathered and tried
+2. Recipes, reading lists that I have gathered and tried
 
 3. News and longer reads that I am accumulating as I browse the Web
 
