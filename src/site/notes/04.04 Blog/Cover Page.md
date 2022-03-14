@@ -18,7 +18,7 @@ This is my attempt at publishing a simple blog, giving back to the Internet comm
 
 2. Recipes, reading lists that I have gathered, read or tried
 
-3. News and longer reads that I am accumulating as I browsed the Web
+3. [[00.03 News/@News|News]] and longer reads that I am accumulating as I browsed the Web
 
 &emsp;
 
