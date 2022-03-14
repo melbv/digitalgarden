@@ -87,4 +87,4 @@ I could just choose to opt out, but here’s a glimpse of what awaits me if I su
 &emsp;
 
 ---
-`$= dv.el('center', 'Source: ' + dv.current().Link)`
+`$= dv.el('center', 'Source: ' + dv.current().Link + ', ' + dv.current().Date.toLocaleString("fr-FR"))`
